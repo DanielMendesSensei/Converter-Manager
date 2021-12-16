@@ -1,2 +1,3 @@
 # Converter-Manager
-Um simples programa de converter arquivos
+# Autor: Daniel Mendes
+#Um simples programa de converter arquivos
